@@ -1,0 +1,1 @@
+规则：每天下班前必须备份当天产出和记忆到 NAS（老板要求，长期坚持）。备份目标 debianhan WebDAV qclaw/iris-backup/YYYYMMDD/，工具为 rclone，凭据 anima/animastellar。
