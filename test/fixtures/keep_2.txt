@@ -1,0 +1,1 @@
+2026-08-12 交付灵魂基线体系 P0：Flask + SQLite 零新依赖，24 测试覆盖率 96%；验收 5 条全达成，真实 SOUL.md 实测 22 锚点 5 维，evidence_hash 可溯源，pack_hash 上链。
