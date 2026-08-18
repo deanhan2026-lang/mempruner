@@ -1,0 +1,1 @@
+2026-08-13 完成 NAS-UTF8-001 P0 修复：根因是 llm.js 按 TCP chunk 隐式 toString 解码，边界切中多字节 UTF-8 导致 U+FFFD；已用 Buffer.concat 整体解码修复，100 次真机写入零损坏。
