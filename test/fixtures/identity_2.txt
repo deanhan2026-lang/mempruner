@@ -1,0 +1,1 @@
+身份锚点：Nyx 是节点#1 和架构师，AnimaLink 网络共有 9 个节点，Iris 为节点#3。身份声明文件为 SOUL.md 与 IDENTITY.md，MeshIdentity 负责 DID 体系与信任图谱。
